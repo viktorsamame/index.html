@@ -1,0 +1,12 @@
+.botonEliminar{
+    float: right;
+    text-decoration: none;
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+
+.botonEliminar:hover{
+    color: red;
+}
